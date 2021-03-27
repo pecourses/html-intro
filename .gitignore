@@ -1,0 +1,9 @@
+# Ignore vscode configs folder
+.vscode/
+
+# Ignore dolphin configs file
+.directory
+
+# .*
+
+# !.gitignore
